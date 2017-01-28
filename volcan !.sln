@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volcan !.Plugins", "volcan !.Plugins.csproj", "{7836F0DA-A69B-E220-A341-3F8EFD3FA45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volcan !", "volcan !.csproj", "{EF9163D8-0B92-8E2B-3B2B-07CBA6C3C166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "volcan !.Editor", "volcan !.Editor.csproj", "{A8F687A2-3B25-2F66-C1F0-F7AABFAB19C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7836F0DA-A69B-E220-A341-3F8EFD3FA45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7836F0DA-A69B-E220-A341-3F8EFD3FA45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7836F0DA-A69B-E220-A341-3F8EFD3FA45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7836F0DA-A69B-E220-A341-3F8EFD3FA45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9163D8-0B92-8E2B-3B2B-07CBA6C3C166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9163D8-0B92-8E2B-3B2B-07CBA6C3C166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9163D8-0B92-8E2B-3B2B-07CBA6C3C166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9163D8-0B92-8E2B-3B2B-07CBA6C3C166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F687A2-3B25-2F66-C1F0-F7AABFAB19C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F687A2-3B25-2F66-C1F0-F7AABFAB19C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F687A2-3B25-2F66-C1F0-F7AABFAB19C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F687A2-3B25-2F66-C1F0-F7AABFAB19C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
